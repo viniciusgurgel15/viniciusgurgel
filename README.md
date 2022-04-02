@@ -1,8 +1,9 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<img width="100%" height = "250px" src="http://3.bp.blogspot.com/-eJ6NnpkUN60/VbCL8vUy7cI/AAAAAAAANl4/Fd-JD2DeB8o/s640/wallpaper-726567.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Olá Companheiro
+ < Desenvolvedores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciusgurgel15.viniciusgurgel15)
