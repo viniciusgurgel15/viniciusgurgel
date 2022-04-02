@@ -1,16 +1,7 @@
-<div align="center">
-<img width="100%" height = "250px" src="http://3.bp.blogspot.com/-eJ6NnpkUN60/VbCL8vUy7cI/AAAAAAAANl4/Fd-JD2DeB8o/s640/wallpaper-726567.png" alt="cover" />
-</div>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgurgel15&layout=compact)](https://github.com/viniciusgurgel15/github-readme-stats)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgurgel15&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusgurgel15&layout=compact)](https://github.com/viniciusgurgel15/github-readme-stats)
 
 
 <h1> Olá Companheiro
@@ -87,5 +78,3 @@
 
 
 <br>
-<footer align='center'>README feito com a ajuda de
- <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
