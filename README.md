@@ -5,7 +5,11 @@
 <h1> Olá Companheiro
  < Desenvolvedores/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
-
+<div>
+<a href="https://github.com/viniciusgurgel15">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciusgurgel15.viniciusgurgel15)
 
 </p>
